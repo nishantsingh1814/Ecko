@@ -1,3 +1,24 @@
 <resources>
     <string name="app_name">Ecko</string>
+    <string name="warn_enter_text">Please enter some text!!!</string>
+    <string name="nishant">Nishant Singh</string>
+    <string name="open_drawer">Open Drawer</string>
+    <string name="close_drawer">Close Drawer</string>
+    <string name="search_hint">Search for Images...</string>
+    <string name="profile">Profile</string>
+    <string name="_2_images_per_row">2 images per row</string>
+    <string name="_3_images_per_row">3 images per row</string>
+    <string name="_4_images_per_row">4 images per row</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="create_group">Create Group</string>
+    <string name="join_group">Join Group</string>
+    <string name="add_profile">Add Profile</string>
+    <string name="exlpore">Exlpore</string>
+    <string name="settings">Settings</string>
+    <string name="wallet">Wallet</string>
+    <string name="rate_us_on_app_store">Rate us on app store</string>
+    <string name="send_feedback">Send Feedback</string>
+    <string name="help">Help</string>
+    <string name="terms_and_conditions">Terms and conditions</string>
+
 </resources>
